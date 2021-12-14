@@ -1,6 +1,6 @@
-## addUser
+# addUser
 
-# Setting up
+## Setting up
 - clone repository (https://github.com/josipaglavinic/addUser
 - ``` npm install ```
 - ``` npm start ```

@@ -1,7 +1,7 @@
 # addUser
 
 Simple CRUD application using Context API.
-Craeting, updateing, deliting and viewing details about contacts.
+Create, update, delete and view details about contacts.
 
 # Setting up
 -- clone repository (https://github.com/josipaglavinic/addUser
